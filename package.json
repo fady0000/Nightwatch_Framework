@@ -1,0 +1,17 @@
+{
+  "name": "fixed-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.6.4"
+  },
+  "devDependencies": {
+    "chromedriver": "^91.0.0"
+  }
+}
